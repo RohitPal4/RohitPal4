@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RohitPal4/RohitPal4/blob/main/A_digital_graphic_banner_features_Rohit_Pal_with_a.png?raw=true" alt="Rohit Pal Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RohitPal4/RohitPal4/refs/heads/main/A_digital_graphic_banner_features_Rohit_Pal_with_a.png.png" alt="Rohit Pal Banner" width="100%"/>
 </p>
 
 
