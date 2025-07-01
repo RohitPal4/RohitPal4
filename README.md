@@ -27,6 +27,7 @@ I specialize in:
 
 ### 🧰 Tech Stack & Tools:
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
@@ -49,11 +50,7 @@ I specialize in:
 ---
 
 ### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/rohit-pal-4a36b5269/)
-- [GitHub](https://github.com/RohitPal4)
-- [LeetCode](https://leetcode.com/u/rohit__pal/)
-- [Portfolio](https://rohit-pal-4.vercel.app)
-- 📬 Email: [rp2012946@gmail.com](mailto:rp2012946@gmail.com)
+<p align="center"> <a href="https://rohit-pal-4.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> &nbsp; <a href="https://www.linkedin.com/in/rohit-pal-4a36b5269/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://github.com/RohitPal4" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> &nbsp; <a href="https://leetcode.com/u/rohit__pal/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> &nbsp; <a href="mailto:rp2012946@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 ---
 
