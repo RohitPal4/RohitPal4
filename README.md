@@ -1,4 +1,7 @@
-<img src="[https://your-banner-image-url.com](https://github.com/RohitPal4/RohitPal4/blob/main/A_digital_graphic_banner_features_Rohit_Pal_with_a.png.png?raw=true)" alt="Rohit Pal Banner" width="100%"/>
+<p align="center">
+  <img src="https://github.com/RohitPal4/RohitPal4/blob/main/A_digital_graphic_banner_features_Rohit_Pal_with_a.png?raw=true" alt="Rohit Pal Banner" width="100%"/>
+</p>
+
 
 # 👋 Hi, I'm Rohit Pal
 
